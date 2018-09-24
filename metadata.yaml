@@ -8,6 +8,9 @@ contributor:
     deathdate: 1958
     gutenberg_agent_id: '9846'
     url: http://www.gutenberg.org/2009/agents/9846
+covers:
+- cover_type: archival
+  image_path: 56325-h/images/01_cover.jpg
 creator:
   author:
     agent_name: Westerman, Percy F. (Percy Francis)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32140
     wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56325#Sea-Scouts-Abroad-Further-Adventures-of-the-Olivette-
 gutenberg_issued: '2018-01-07'
 gutenberg_type: Text
 identifiers:
